@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Ai_Test",
+			"Path": "C:\\Users\\sasha\\OneDrive\\Документы\\GitHub\\Ai\\Source\\Ai_Test.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Ai_TestEditor",
+			"Path": "C:\\Users\\sasha\\OneDrive\\Документы\\GitHub\\Ai\\Source\\Ai_TestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
